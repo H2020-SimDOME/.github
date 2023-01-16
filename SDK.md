@@ -2,9 +2,9 @@
 
 The SimDOME SDK is a collection of APIs, tutorials, documentation and templates that allow developers to integrate additional simulation engines, databases and data repositories in the SimDOME ecosystem.
 
-- SimPhoNy Wrapper API ([documentation](https://simphony.readthedocs.io/en/v4.0.0/developers/wrappers.html)) - enables the creation of new SimPhoNy wrappers.
+- [SimPhoNy Wrapper API](https://simphony.readthedocs.io/en/v4.0.0/developers/wrappers.html) - enables the creation of new SimPhoNy wrappers.
 
-- SimPhoNy Operations API ([documentation](https://simphony.readthedocs.io/en/v4.0.0/developers/operations.html)) - allows developers to attach code snippets to ontology individuals.
+- [SimPhoNy Operations API](https://simphony.readthedocs.io/en/v4.0.0/developers/operations.html) - allows developers to attach code snippets to ontology individuals.
 
 - [SimPhoNy Wrapper Template](https://github.com/simphony/wrapper-development) - includes a simple implementation of a SimPhoNy wrapper to be used as a template, as well as template documentation.
 
