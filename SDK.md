@@ -12,7 +12,7 @@ The SimDOME SDK is a collection of APIs, tutorials, documentation and templates 
 
 - SimDOME GUI: guide on adding extra workflows - a short guide pointing out the relevant parts of the GUI's source code that need to be modified in order to add extra workflows to the web application. 
 
-- Ontology development guidelines - developing a SimPhoNy wrapper involves abstracting the concepts handled by thew software as terminological knowledge in an ontology. The scope of the guide is to help developers get started with ontology development.
+- [Ontology development guidelines](https://github.com/H2020-SimDOME/ontodev) - developing a SimPhoNy wrapper involves abstracting the concepts handled by thew software as terminological knowledge in an ontology. The scope of the guide is to help developers get started with ontology development.
 
 
 
